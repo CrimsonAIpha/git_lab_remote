@@ -1,0 +1,1 @@
+"This some sample data for lab question 3." 
